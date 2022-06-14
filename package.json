@@ -1,7 +1,7 @@
 {
   "name": "dermai-server",
   "version": "1.0.0",
-  "description": "Backend for derm-ai",
+  "description": "Backend for dermai",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
